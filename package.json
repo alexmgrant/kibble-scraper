@@ -1,0 +1,17 @@
+{
+  "name": "@kibbleio/scraper",
+  "version": "1.0.0",
+  "description": "Scrapper For Product Info",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex G",
+  "license": "ISC",
+  "dependencies": {
+    "apify": "^0.20.2",
+    "cheerio": "^1.0.0-rc.3",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
